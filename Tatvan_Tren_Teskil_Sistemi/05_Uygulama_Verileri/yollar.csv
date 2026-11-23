@@ -1,0 +1,43 @@
+alan,yol_adi,normal_uzunluk_m,baslangic_km,bitis_km,faydali_uzunluk_m,tur,dogrulama_durumu
+askeri_rampa,1. Yol,422,368+074,368+496,374,rampa,belgeden_okundu
+askeri_rampa,2. Yol,266,368+276,368+542,169,rampa,belgeden_okundu
+askeri_rampa,3. Yol,310,368+276,368+586,213,rampa,belgeden_okundu
+askeri_rampa,4. Kör Yol,64,368+496,368+560,16,kor_yol,belgeden_okundu
+sivil_istasyon,1. Yol,641,368+603,369+244,544,gar_yolu,belgeden_okundu
+sivil_istasyon,2. Yol,641,368+603,369+244,544,gar_yolu,belgeden_okundu
+sivil_istasyon,3. Yol,788,368+496,369+284,691,gar_yolu,belgeden_okundu
+sivil_istasyon,4. Yol,918,368+430,369+347,819,gar_yolu,belgeden_okundu
+sivil_istasyon,5. Yol,872,368+474,369+346,775,gar_yolu,belgeden_okundu
+sivil_istasyon,6. Yol,781,368+520,369+301,684,gar_yolu,belgeden_okundu
+sivil_istasyon,7. Yol,684,368+571,369+257,589,gar_yolu,belgeden_okundu
+sivil_istasyon,8. Yol,768,368+571,369+339,720,gar_yolu,belgeden_okundu
+tahliye,9. Yol,323,369+339,369+662,226,tahliye_yolu,belgeden_okundu
+tahliye,10. Yol,337,369+339,369+676,289,tahliye_yolu,belgeden_okundu
+depo,Akaryakıt Yolu,180,369+681,369+861,132,akaryakit,belgeden_okundu
+depo,Depo Yol 1,97,369+738,369+835,49,depo_yolu,belgeden_okundu
+depo,Depo Yol 2,97,369+738,369+835,49,depo_yolu,belgeden_okundu
+ambar,1. Yol,679,369+163,369+842,630,ambar_yolu,belgeden_okundu
+ambar,2. Yol,626,369+117,369+743,529,ambar_yolu,belgeden_okundu
+ambar,3. Yol,309,369+395,369+704,212,ambar_yolu,belgeden_okundu
+ambar,4. Yol,329,369+354,369+683,232,ambar_yolu,belgeden_okundu
+ambar,5. Yol,397,369+313,369+710,350,ambar_yolu,belgeden_okundu
+ambar,6. Yol,258,369+452,369+710,210,ambar_yolu,belgeden_okundu
+ambar,Ambar Kör Yol,467,369+163,369+630,418,kor_yol,belgeden_okundu
+rahova,1. Yol,1016,355+167,356+183,921,istasyon_yolu,belgeden_okundu
+rahova,2. Yol,1016,355+167,356+183,921,istasyon_yolu,belgeden_okundu
+iskele_yuk,1. Yol,390,3+916,4+306,293,iskele_yolu,belgeden_okundu
+iskele_yuk,2. Yol,390,3+916,4+306,293,iskele_yolu,belgeden_okundu
+iskele_yuk,3. Yol,381,3+879,4+260,333,iskele_yolu,belgeden_okundu
+iskele_yuk,4. Yol,420,3+843,4+263,372,iskele_yolu,belgeden_okundu
+iskele_sol_eksen,1. Yol,264,4+341,4+605,216,iskele_yolu,belgeden_okundu
+iskele_sol_eksen,2. Yol,230,4+375,4+605,182,iskele_yolu,belgeden_okundu
+iskele_sol_eksen,3. Yol,196,4+409,4+605,148,iskele_yolu,belgeden_okundu
+iskele_sol_eksen,4. Yol,196,4+409,4+605,148,iskele_yolu,belgeden_okundu
+iskele_sag_eksen,1. Yol,160,4+431,4+591,160,iskele_yolu,belgeden_okundu
+iskele_sag_eksen,2. Yol,235,4+356,4+591,187,iskele_yolu,belgeden_okundu
+iskele_sag_eksen,3. Yol,277,4+315,4+591,226,iskele_yolu,belgeden_okundu
+iskele_sag_eksen,4. Yol,318,4+273,4+591,270,iskele_yolu,belgeden_okundu
+iskele_diger,5. İskele Sol Eksen Ara Yol,458,3+806,4+264,410,iskele_ara_yol,belgeden_okundu
+iskele_diger,7. İskele Sağ Eksen Ara Yol,241,3+913,4+154,193,iskele_ara_yol,belgeden_okundu
+iskele_diger,8. Akaryakıt Yolu,236,4+264,4+500,188,akaryakit,belgeden_okundu
+
